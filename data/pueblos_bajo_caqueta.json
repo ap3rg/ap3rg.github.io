@@ -1,1 +1,132 @@
-"[{\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Mestizo\", \"total\": 40}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Cubeo\", \"total\": 69}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Karijona\", \"total\": 92}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Yukuna\", \"total\": 300}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Yeral\", \"total\": 51}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Uitoto\", \"total\": 60}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Tanimuka\", \"total\": 189}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Mira\\u00f1a\", \"total\": 120}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Makuna\", \"total\": 135}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": NaN, \"total\": 191}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Tikuna\", \"total\": 20}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Bara\", \"total\": 9}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Matapi\", \"total\": 60}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Barasano\", \"total\": 9}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Itano\", \"total\": 7}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Yauna\", \"total\": 8}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Jurumi\", \"total\": 2}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Letuama\", \"total\": 15}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Tukano\", \"total\": 5}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Cocama\", \"total\": 2}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Ingano\", \"total\": 3}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Tatuyo\", \"total\": 1}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Je Yeruriwa\", \"total\": 1}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Tariano\", \"total\": 1}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Taiwano\", \"total\": 1}, {\"terrotorio\": \"Consejo Ind\\u00edgena del Bajo Caquet\\u00e1\", \"pueblo\": \"Patigua\", \"total\": 1}]"
+[
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Mestizo",
+    "total": 40
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Cubeo",
+    "total": 69
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Karijona",
+    "total": 92
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Yukuna",
+    "total": 300
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Yeral",
+    "total": 51
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Uitoto",
+    "total": 60
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Tanimuka",
+    "total": 189
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Miraña",
+    "total": 120
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Makuna",
+    "total": 135
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "",
+    "total": 191
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Tikuna",
+    "total": 20
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Bara",
+    "total": 9
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Matapi",
+    "total": 60
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Barasano",
+    "total": 9
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Itano",
+    "total": 7
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Yauna",
+    "total": 8
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Jurumi",
+    "total": 2
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Letuama",
+    "total": 15
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Tukano",
+    "total": 5
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Cocama",
+    "total": 2
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Ingano",
+    "total": 3
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Tatuyo",
+    "total": 1
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Je Yeruriwa",
+    "total": 1
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Tariano",
+    "total": 1
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Taiwano",
+    "total": 1
+  },
+  {
+    "territorio": "Consejo Indígena del Bajo Caquetá",
+    "pueblo": "Patigua",
+    "total": 1
+  }
+]
